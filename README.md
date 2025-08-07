@@ -28,7 +28,7 @@ This repository exists to **document, simplify, and share** the essential techni
 
 ## 🔗 Follow Us on LinkedIn
 
-Join us on [**LinkedIn**](https://www.linkedin.com/in/hexecutioners) for even more content, including:
+Join us on [**LinkedIn**](https://www.linkedin.com/company/hexecutioners) for even more content, including:
 
 - 🔥 Real-world demonstrations
 - 🎥 Video tutorials and walkthroughs
